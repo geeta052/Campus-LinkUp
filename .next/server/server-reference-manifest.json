@@ -1,0 +1,78 @@
+{
+  "node": {
+    "08576e2f5bbd32c018d12549b2de76d7e20a1afb": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22getEventById%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "a4bb7ddceba4c779d23dc382480f5d20bfa51472": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22getEventById%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "b3ddacab57288e5e4f2751438b97a23a08ed5ca1": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22getEventById%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "dcc5288e41d2d85121356355ad4562c23b697267": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22getEventById%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "f07216421031e40f58ce8a1e492bc99579b80f22": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22getEventById%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "f56a16f3f5c5f13529ea357be513464c2788b089": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22getEventById%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "fbc27a614e9eea178b8113f3548f89043433b5c5": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Cevent.actions.ts%22%2C%5B%22getEventById%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "3494bc54c853027de755f2fb1ec4089747f75f84": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Ccategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    },
+    "5c58d42034bb818c787e36618a108859fe63b41b": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CGeeta%5C%5CDesktop%5C%5CSEM%206%5C%5Ccampuslinkup%5C%5Clib%5C%5Cactions%5C%5Ccategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "bxb9kAk87+2fLceYZG3U93B21dvUs4WcJAy7wZmRszw="
+}

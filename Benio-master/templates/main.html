@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Luna_campusLinkup</title>
+    <link rel="stylesheet" type="text/css" href="static/css/Style.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Baloo+Chettan+2|Tangerine&display=swap" rel="stylesheet">
+    <link rel="icon" href="static/images/roboimagecircle.jpg">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"
+            integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA=="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+    </header>
+    <div class="top-container">
+        <img id="top-cloud" src="static/images/cloud.png" alt="cloud">
+        <div class="Intro">
+            <h1 id="h1">Chatbot</h1>
+        </div>
+        <div class="bubbles">
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+            <div class="bubble"></div>
+        </div>
+    </div>
+    <div class="middle-container">
+        <div id="image-data-area">
+        </div>
+        <form id="input_form" method="post">
+            <textarea name="input_text" id="input_text" cols="50" rows="20">{{ input_text }} {{"\n"}}{{ processed_output }}</textarea>
+            <input type="submit" value="Process">
+            <input type="reset" value="reset" />
+        </form>
+    </div>
+    <footer id="f">
+        <img class="flogo" src="static/images/log.png">
+        <div class="link">
+            <a class="footer-link" href="C:\Users\Ninad\PycharmProjects\Benio\templates\index.html">Home</a>
+            <a class="footer-link" href="C:\Users\Ninad\PycharmProjects\Benio\templates\main.html">About US</a>
+        </div>
+        <p class="copyright">© 2023 <a href="#" class="f-link">Benio- Engg Guidance Chatbot</a> Developed by  Ninad , Revati, Krish, Geeta.</p>
+    </footer>
+    <script type="text/javascript" src="static/js/main.js"></script>
+</body>
+</html>
